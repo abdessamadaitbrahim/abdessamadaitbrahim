@@ -66,15 +66,17 @@ Seeking a **6-month PFE internship starting in early 2027**, with a long-term go
   <img src="https://img.shields.io/badge/ETL%2FELT-00897B?style=for-the-badge" alt="ETL and ELT"/>
 </p>
 
-<p align="center">
-  <i>Building strong foundations in AI, one experiment at a time.</i>
-</p>
-
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessamadaitbrahim/abdessamadaitbrahim/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/abdessamadaitbrahim/abdessamadaitbrahim/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+  </picture>
+</p>
 
 <p align="center">
-  <samp>✦ Building intelligent systems, one experiment at a time.</samp>
+  <samp>✦ Building strong foundations in AI, one experiment at a time.</samp>
   <br/>
   <sub><i>Learn · Experiment · Innovate</i></sub>
 </p>
