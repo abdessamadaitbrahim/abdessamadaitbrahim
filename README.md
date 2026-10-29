@@ -29,13 +29,13 @@
 
 ## About Me
 
-Final-year engineering student in **Big Data &amp; Artificial Intelligence** at ENSA Tétouan, Morocco. I build my understanding of AI on mathematical foundations, experimentation, and rigorous evaluation.
+Final-year engineering student in **Big Data &amp; Artificial Intelligence** at **ENSA Tétouan, Morocco**. I focus on building AI systems grounded in solid mathematical foundations, careful experimentation, and rigorous evaluation.
 
-- Interested in AI research, machine learning, and deep learning
-- Exploring neural networks and transformer architectures
-- Working on computer vision, NLP, and multimodal AI
-- Seeking a **6-month research-oriented PFE internship starting in early 2027**
-- Long-term goal: a PhD in Artificial Intelligence or a related field
+**Focus:** machine learning, deep learning, computer vision, NLP, and multimodal AI  
+**Hands-on work:** CNN-based facial emotion recognition, multilingual sentiment analysis (French, English, Darija), and an LLM-based industrial data assistant  
+**Currently exploring:** neural networks, transformer architectures, and time-series analysis  
+**Looking for:** a **6-month research-oriented PFE internship starting in early 2027**  
+**Long-term goal:** a PhD in Artificial Intelligence or a related field
 
 ---
 ## Technical Skills
