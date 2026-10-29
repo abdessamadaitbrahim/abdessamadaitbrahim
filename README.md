@@ -1,20 +1,30 @@
 
-<h1 align="center">Hi, I'm Abdessamad Ait Brahim</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:7B2FF7,100:00C9A7&height=220&section=header&text=Abdessamad%20Ait%20Brahim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20Artificial%20Intelligence%20Engineer&descAlignY=58&descSize=20" alt="header"/>
+</p>
+
+<h1 align="center">Hi, I'm Abdessamad Ait Brahim 👋</h1>
 
 <h3 align="center">
   Final-Year Engineering Student in Big Data & Artificial Intelligence
 </h3>
 
 <p align="center">
-  AI Research | Machine Learning | Deep Learning | Computer Vision | NLP
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=AI+Research+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+data+into+intelligent+systems" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C9A7?style=for-the-badge" alt="status"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Research-7B2FF7?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Location-Morocco-C1272D?style=for-the-badge" alt="location"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdessamad-aitbrahim/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:abdessamadaitbrahim9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abdessamadaitbrahim9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
