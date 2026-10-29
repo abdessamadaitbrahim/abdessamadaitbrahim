@@ -72,19 +72,14 @@ Seeking a **6-month PFE internship starting in early 2027**, with a long-term go
 
 ---
 
-
-<!-- GitHub Activity -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=420&lines=GitHub+Activity;Consistency+over+Complexity;Learning+through+Experimentation" alt="GitHub Activity Animation" />
-</h2>
+## GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF6F00/abdessamadaitbrahim"
-       alt="GitHub Contribution Graph"
-       width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdessamadaitbrahim&bg_color=00000000&color=FF6F00&line=FF6F00&point=FFFFFF&area=true&hide_border=true&custom_title="
+       alt="GitHub Activity Graph"
+       width="100%" />
 </p>
 
 <p align="center">
-  <i>Exploring ideas, running experiments, and building AI solutions — one commit at a time.</i>
+  <i>Building strong foundations in AI, one experiment at a time.</i>
 </p>
-
