@@ -71,7 +71,7 @@ Seeking a **6-month PFE internship starting in early 2027**, with a long-term go
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdessamadaitbrahim/abdessamadaitbrahim/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/abdessamadaitbrahim/abdessamadaitbrahim/output/github-snake.svg" alt="Contribution snake" width="70%"/>
+    <img src="https://raw.githubusercontent.com/abdessamadaitbrahim/abdessamadaitbrahim/output/github-snake.svg" alt="Contribution snake" width="50%"/>
   </picture>
 </p>
 
