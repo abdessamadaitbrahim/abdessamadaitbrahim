@@ -72,16 +72,10 @@ Seeking a **6-month PFE internship starting in early 2027**, with a long-term go
 
 ---
 
-## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/FF6F00/abdessamadaitbrahim"
-    alt="GitHub Contributions"
-    width="100%"
-  />
+  <samp>✦ Building intelligent systems, one experiment at a time.</samp>
+  <br/>
+  <sub><i>Learn · Experiment · Innovate</i></sub>
 </p>
 
-<p align="center">
-  <em>Building strong foundations in AI, one experiment at a time.</em>
-</p>
