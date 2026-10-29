@@ -45,23 +45,7 @@ foundations, experimentation, model development, and rigorous evaluation.
 - 📈 Exploring signal processing and time-series analysis
 - 🎯 Seeking a **6-month research-oriented PFE internship starting in early 2027**
 - 🚀 Long-term goal: pursue a PhD in Artificial Intelligence or a related field
-
-## Research Interests
-
-- Machine Learning & Deep Learning
-- Neural Networks & Representation Learning
-- Computer Vision & Image Analysis
-- Natural Language Processing (NLP)
-- Transformers & Large Language Models (LLMs)
-- Multimodal Learning
-- Signal Processing & Time-Series Analysis
-- Scientific Computing & Mathematical Modeling
-- Biomedical and Industrial AI Applications
-
 ---
-
-
-
 ## Technical Skills
 
 <p align="center">
