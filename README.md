@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Abdessamad Ait Brahim</h1>
+<h1 align="center">Hello !, I'm Abdessamad Ait Brahim</h1>
 
 <h3 align="center">
   Final-Year Engineering Student in Big Data &amp; Artificial Intelligence
@@ -18,11 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-5FAD41?style=for-the-badge" alt="Open to Opportunities"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdessamad-aitbrahim/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
   <p align="center">
   <a href="https://www.linkedin.com/in/abdessamad-aitbrahim/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
