@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=FF6F00&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Research+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+data+into+intelligent+systems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=FF6F00&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Research+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+data+into+intelligent+systems" alt="Typing animation"/>
 </p>
 
 <p align="center">
