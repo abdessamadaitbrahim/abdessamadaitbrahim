@@ -30,8 +30,11 @@
 ## About Me
 
 Final-year Engineering Student in **Big Data & Artificial Intelligence** at **ENSA Tétouan, Morocco**.
+
 Interested in **Machine Learning, Deep Learning, Computer Vision, NLP, and Multimodal AI**, with a focus on building reliable, data-driven AI solutions through rigorous experimentation and evaluation.
+
 Exploring AI research and real-world applications across scientific and industrial domains.
+
 Seeking a **6-month PFE internship starting in early 2027**, with a long-term goal of pursuing a PhD in AI.
 
 ---
