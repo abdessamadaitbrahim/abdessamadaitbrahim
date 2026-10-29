@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="quote-dark.jpg">
-    <img src="quote-light.jpg" alt="Everything will come in its time, right and fittingly. - Abdessamad" width="600"/>
+    <img src="quote-light.jpg" alt="Everything will come in its time, right and fittingly. - Abdessamad" width="100%"/>
   </picture>
 </p>
 
