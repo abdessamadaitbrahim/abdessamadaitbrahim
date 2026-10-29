@@ -41,7 +41,7 @@ Final-year engineering student in **Big Data &amp; Artificial Intelligence** at 
 ## Technical Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=4000&amp;pause=1200&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI+%26+Deep+Learning+%7C+PyTorch+%7C+TensorFlow;NLP+%7C+Hugging+Face+%7C+LLMs+%7C+Transformers;Machine+Learning+%7C+Scikit-learn+%7C+XGBoost;Python+%7C+C%2B%2B+%7C+SQL+%7C+PySpark;Data+Engineering+%7C+Databases+%7C+AWS+%7C+Linux&amp;repeat=true" alt="Animated AI and technology skills"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;duration=4000&amp;pause=1200&amp;color=FF6F00&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI+%26+Deep+Learning+%7C+PyTorch+%7C+TensorFlow;NLP+%7C+Hugging+Face+%7C+LLMs+%7C+Transformers;Machine+Learning+%7C+Scikit-learn+%7C+XGBoost;Python+%7C+C%2B%2B+%7C+SQL+%7C+PySpark;Data+Engineering+%7C+Databases+%7C+AWS+%7C+Linux&amp;repeat=true" alt="Animated AI and technology skills"/>
 </p>
 
 <p align="center">
