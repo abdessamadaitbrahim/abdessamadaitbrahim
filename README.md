@@ -47,43 +47,47 @@ processing, and scientific applications of AI.
 - Biomedical and Industrial AI Applications
 - Multimodal Learning
 
+
 ## Technical Skills
 
 **Programming & Data Analysis**
 
-`Python` `SQL` `NumPy` `Pandas` `SciPy` `Matplotlib`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Machine Learning & Deep Learning**
 
-`Scikit-learn` `PyTorch` `TensorFlow` `Keras`
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **AI & NLP**
 
-`Transformers` `Hugging Face` `Text Classification` `LLMs`
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 
 **Development & Tools**
 
-`Git` `GitHub` `Docker` `Flask` `FastAPI` `Linux`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Databases & Cloud**
 
-`MariaDB` `SQLite` `AWS`
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## Selected Projects
-
-### Facial Emotion Recognition
-- Developed CNN-based models for facial emotion classification.
-- Experimented with ResNet and VGG architectures.
-- Evaluated models using classification metrics.
-
-**Technologies:** Python, PyTorch, TensorFlow, Computer Vision
-
-### Multilingual Sentiment Analysis
-- Worked on sentiment classification for French, English, and Darija.
-- Experimented with multilingual transformer models.
-- Developed a dashboard for analyzing prediction results.
-
-**Technologies:** Python, NLP, Transformers, Flask, SQLite
 
 ### Image Captioning
 - Explored image caption generation using CNN-based visual features
