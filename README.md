@@ -52,47 +52,35 @@ foundations, experimentation, model development, and rigorous evaluation.
 ---
 
 
+
 ## Technical Skills
 
-### AI, Machine Learning & Deep Learning
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning;PyTorch+%7C+TensorFlow+%7C+Scikit-learn;NLP+%7C+Hugging+Face+%7C+Transformers;LLMs+%7C+Prompt+Engineering+%7C+Multilingual+NLP;XGBoost+%7C+Feature+Engineering+%7C+Model+Evaluation" alt="Animated AI skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+%26+Deep+Learning+%7C+PyTorch+%7C+TensorFlow;NLP+%7C+Hugging+Face+%7C+LLMs+%7C+Transformers;Machine+Learning+%7C+Scikit-learn+%7C+XGBoost;Python+%7C+C%2B%2B+%7C+SQL+%7C+PySpark;Data+Engineering+%7C+Databases+%7C+AWS+%7C+Linux&repeat=true" alt="Animated AI and technology skills"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp&perline=20" alt="AI and programming skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,opencv,postgres,mysql,fastapi,flask,docker,git,github,linux,aws&perline=14&size=42" alt="AI, programming, data and development technologies"/>
 </p>
-
-### Programming & Data Analysis
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas,scipy&perline=20" alt="Programming and data analysis skills" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Transformers-6A5ACD?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge" alt="SSIS"/>
+  <img src="https://img.shields.io/badge/SSAS-0078D4?style=for-the-badge" alt="SSAS"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-00897B?style=for-the-badge" alt="ETL and ELT"/>
 </p>
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, SciPy, Matplotlib, Exploratory Data Analysis
-- **Data Preparation:** Data Cleaning, Data Validation, Feature Engineering
-
-### Databases & Data Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,aws&perline=20" alt="Databases and data engineering skills" />
-</p>
-
-- **Databases:** PostgreSQL, MySQL, MariaDB, SQL Server
-- **Data Engineering:** ETL/ELT, PySpark, SSIS, SSAS
-- **Cloud:** AWS (EC2, S3)
-
-### Backend Development & BI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github&perline=20" alt="Backend and development tools" />
-</p>
-
-- **Backend & APIs:** FastAPI, Flask, REST APIs
-- **Business Intelligence:** Power BI, Streamlit
-- **Tools:** Git, GitHub, Docker, Linux
 
 
 ---
