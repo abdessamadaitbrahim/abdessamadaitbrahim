@@ -4,8 +4,7 @@
     <img src="quote-light.jpg" alt="Everything will come in its time, right and fittingly. - Abdessamad" width="100%"/>
   </picture>
 </p>
-
---
+---
 
 <h1 align="center">Hello! I'm Abdessamad Ait Brahim</h1>
 
