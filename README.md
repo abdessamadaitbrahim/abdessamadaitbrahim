@@ -12,13 +12,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1200&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=380&amp;height=30&amp;lines=AI+Research+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+data+into+intelligent+systems" alt="Typing animation" align="middle"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-5FAD41?style=flat&amp;labelColor=5FAD41" alt="Open to Opportunities" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Research+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+data+into+intelligent+systems" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-5FAD41?style=for-the-badge" alt="Open to Opportunities"/>
   <a href="https://www.linkedin.com/in/abdessamad-aitbrahim/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" align="middle"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=abdessamadaitbrahim9@gmail.com&amp;su=Contact%20from%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20email-CC2927?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Gmail" align="middle"/>
+    <img src="https://img.shields.io/badge/Gmail-Send%20an%20email-CC2927?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
