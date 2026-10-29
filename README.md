@@ -5,6 +5,8 @@
   </picture>
 </p>
 
+---
+
 <h1 align="center">Hello! I'm Abdessamad Ait Brahim</h1>
 
 <h3 align="center">
