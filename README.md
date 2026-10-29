@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9CA3AF,50:6B7280,100:9CA3AF&amp;height=210&amp;section=header&amp;text=Abdessamad%20Ait%20Brahim&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Big%20Data%20%26%20Artificial%20Intelligence%20Engineer&amp;descAlignY=58&amp;descSize=18" alt="Abdessamad Ait Brahim"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="quote-dark.jpg">
+    <img src="quote-light.jpg" alt="Everything will come in its time, right and fittingly. - Abdessamad" width="600"/>
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Abdessamad Ait Brahim</h1>
