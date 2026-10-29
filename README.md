@@ -75,7 +75,7 @@ Seeking a **6-month PFE internship starting in early 2027**, with a long-term go
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdessamadaitbrahim&amp;show_icons=true&amp;count_private=true&amp;theme=transparent&amp;title_color=FF6F00&amp;icon_color=FF6F00&amp;text_color=8B949E&amp;hide_border=true" alt="GitHub stats" width="60%"/>
+  <img src="https://ghchart.rshah.org/FF6F00/abdessamadaitbrahim" alt="GitHub contribution graph" width="90%"/>
 </p>
 
 <p align="center">
